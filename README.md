@@ -17,7 +17,7 @@ The analysis indludes exploratory data analysis(EDA), feature engineering, and m
    - create new features( eg. 'FamilySize = SibSp + Parch + 1')
 4. **Model Training and Evaluation**
    - 
-6. **Prediction**
+5. **Prediction**
 
 ## Dependencies
 - pandas
@@ -26,5 +26,5 @@ The analysis indludes exploratory data analysis(EDA), feature engineering, and m
 - seaboren
 - scikit-learn
 
-##References
+## References
 Kaggle Titanic tutorial by Ryan Nolan https://www.kaggle.com/code/ryannolan1/titanic-voting-classifier-0-78947?scriptVersionId=149342442
