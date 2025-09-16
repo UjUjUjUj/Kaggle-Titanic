@@ -2,7 +2,7 @@
 
 ## Project Overview
 this project aims to predict whether passengers survived the Titanic disaster using machine learning. 
-The analysis indludes exploratory data analysis(EDA), feature engineering, and model comparison
+The analysis includes exploratory data analysis(EDA), feature engineering, and model comparison
 
 ## Dataset
 - Source: Kaggle Titanic dataset ([link](https://www.kaggle.com/c/titanic))
@@ -12,18 +12,18 @@ The analysis indludes exploratory data analysis(EDA), feature engineering, and m
    - Visualize survival rates by gender, class, and age
    - Identify missing values and data patterns
 2. **Data Preprocessing & Feature Engineering**
-   - Fill missing data('Age', 'Enbarked)
-   - Encode catogorial variables('Sex', 'Embarked')
-   - create new features( eg. 'FamilySize = SibSp + Parch + 1')
+   - Fill missing data('Age', 'Embarked)
+   - Encode categorial variables('Sex', 'Embarked')
+   - create new features( eg.,'FamilySize = SibSp + Parch + 1')
 4. **Model Training and Evaluation**
-   - 
+   
 5. **Prediction**
 
 ## Dependencies
 - pandas
 - numpy
 - matplotlib
-- seaboren
+- seaborn
 - scikit-learn
 
 ## References
